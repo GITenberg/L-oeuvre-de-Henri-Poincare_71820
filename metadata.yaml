@@ -1,0 +1,33 @@
+_repo: L-oeuvre-de-Henri-Poincare_71820
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Picard, Emile
+    aliases:
+    - Picard, Émile
+    - Picard, Ch.-E. (Charles Emile)
+    - Picard, Charles Emile
+    birthdate: 1856
+    deathdate: 1941
+    gutenberg_agent_id: '40486'
+    url: http://www.gutenberg.org/2009/agents/40486
+    wikipedia: https://en.wikipedia.org/wiki/%C3%89mile_Picard
+description: ''
+gutenberg_issued: '2023-10-06'
+identifiers:
+  gutenberg: '71820'
+language: fr
+pgterms:marc904: https://archive.org/details/b3061966x
+pgterms:marc905: 20231003075321picard
+pgterms:marc906: '1913'
+pgterms:marc907: FR
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: '  $aParis :$bGauthier-Villars, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'oeuvre de Henri Poincaré
+url: http://www.gutenberg.org/ebooks/71820
